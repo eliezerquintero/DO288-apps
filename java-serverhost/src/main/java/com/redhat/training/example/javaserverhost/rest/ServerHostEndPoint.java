@@ -21,4 +21,4 @@ public class ServerHostEndPoint {
     }
     String msg = "I am running on server "+host+" Version 3.0 \n";
     return Response.ok(msg).build();
-  
+  }
